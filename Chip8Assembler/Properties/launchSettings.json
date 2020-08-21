@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Chip8Assembler": {
+      "commandName": "Project",
+      "commandLineArgs": "pong.asm",
+      "workingDirectory": "C:\\dev\\Cs\\Chip8Assembler"
+    }
+  }
+}
